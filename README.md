@@ -1,13 +1,11 @@
-# progres-belajar-asah
+# Pengalaman Belajar di Dicoding
 
-Pengalaman Belajar di Dicoding
+**14 Juni 2021**<br>
+Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
+* Belajar tentang apa itu Java dan alasan menggunakannya.
+* Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman Java.
 
-11 Agustus 2025
-Belajar kelas Frontend and backend with ai (Progres 21%)
-* Belajar tentang Mengenal tentang git.
-* Belajar apa itu git dan cara menggunakanya.<br>
-
-15 Juni 2021
+**15 Juni 2021**<br>
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
 * Belajar dasar-dasar Java, seperti struktur dasar, tipe data, string, operator, input output, dan array.
 * Belajar control flow dalam Java, seperti perulangan dan percabangan.
